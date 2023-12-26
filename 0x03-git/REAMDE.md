@@ -1,1 +1,3 @@
-First repo for learning Git
+# 0x03-Git
+	learning about git
+
